@@ -96,7 +96,7 @@ const flowUbicacion = addKeyword(['3']).addAnswer([
     '',
     'GoogleMaps: https://maps.app.goo.gl/SRJn5ZdsfssQttZp8',
 ],{ delay: 2000 }
-).addAnswer(['*Foto de referencia*',],{media: 'https://i.imgur.com/FAntcIw.jpeg'}
+).addAnswer(['*Foto de referencia*',],{media: 'https://imgur.com/VPmyEW9'}
 ) .addAnswer(['Si quieres finalizar el chat escribe "*Gracias*" y si quieres volver a empezar escribe "*Hola*"'], { delay: 6000 })
 
 // Flujo para contactar a una persona real
